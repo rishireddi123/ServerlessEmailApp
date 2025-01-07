@@ -3,7 +3,7 @@ Lambda Function Test Event
 {
   "comment": "Generic test event for scheduled Lambda execution. The function does not use this event data.",
   "test": true
-
+}
 
 
 IAM Policy for SES and S3 permissions
